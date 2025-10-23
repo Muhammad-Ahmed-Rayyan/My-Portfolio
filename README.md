@@ -64,20 +64,20 @@ To serve as a central hub where potential collaborators, recruiters, and peers c
 
 ```
 My-Portfolio/
-├── index.html                # Main portfolio webpage
-├── style.css                 # Styling and animations
-├── script.js                 # Interactive JavaScript logic
 ├── assets/
 │   ├── animations/
-│   │   └── ai-brain-board.json     # Lottie animation for hero section
+│   │   └── ai-brain-board.json             # Lottie animation for hero section
 │   ├── project/
-│   │   ├── project_1.png           # VitalCare Custom GPT preview
-│   │   ├── project_2.png           # AI Hotel Management System preview
-│   │   └── project_3.png           # EEG Classifier preview
-│   ├── Muhammad_Ahmed_Rayyan_Resume.pdf  # Resume file
+│   │   ├── project_1.png
+│   │   ├── project_2.png
+│   │   └── project_3.png
+│   ├── Muhammad_Ahmed_Rayyan_Resume.pdf    # Resume file
 │   ├── favicon.ico
 │   ├── favicon.png
-│   └── profile.jpg                  # About section profile image
+│   └── profile.jpg                         # About section profile image
+├── index.html                              # Main portfolio webpage
+├── style.css                               # Styling and animations
+└── script.js                               # Interactive JavaScript logic
 ```
 
 ---
@@ -85,7 +85,7 @@ My-Portfolio/
 ## 🚀 Live Preview
 
 You can explore the live portfolio here:  
-👉 **[ahmedrayyan-portfolio.netlify.app](https://ahmedrayyan-portfolio.netlify.app/)**
+🔗 **[ahmedrayyan-portfolio.netlify.app](https://ahmedrayyan-portfolio.netlify.app/)**
 
 To view it locally:
 
@@ -116,28 +116,16 @@ cd My-Portfolio
 
 ## 🖥️ Interactive Highlights
 
-### 🧠 Neural Network Animation  
-An HTML5 `<canvas>` visualization simulating a neural network with moving nodes and soft connections.
-
-### 💡 Typing Effect  
-The hero section dynamically types the name “Muhammad Ahmed Rayyan” using a JavaScript animation.
-
-### 🪄 Scroll Animations  
-Smooth transitions and section fades using `IntersectionObserver` for an engaging flow.
+- 🧠 Neural Network Animation
+-- An HTML5 `<canvas>` visualization simulating a neural network with moving nodes and soft connections.
+- 💡 Typing Effect  
+-- The hero section dynamically types the name “Muhammad Ahmed Rayyan” using a JavaScript animation.
+- 🪄 Scroll Animations  
+-- Smooth transitions and section fades using `IntersectionObserver` for an engaging flow.
 
 ---
 
-## ⭐ Support
-
-If you like this project, please consider giving it a **⭐ on GitHub** — it helps more people discover it!
-
-</br>
-
----
 
 <div align="center">
-
-**Crafted with ❤️ by [Muhammad Ahmed Rayyan](https://github.com/Muhammad-Ahmed-Rayyan)**  
-*Artificial Intelligence Student | Machine Learning Enthusiast | Developer*
-
+    ⭐ Star this project and make the dev’s day!
 </div>
