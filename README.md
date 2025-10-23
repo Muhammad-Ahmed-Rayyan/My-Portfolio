@@ -4,12 +4,17 @@
 *Showcasing Creativity, AI Passion, and Full-Stack Skills*
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/My-Portfolio)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![LottieFiles](https://img.shields.io/badge/LottieFiles-00C4CC?logo=lottiefiles&logoColor=white)
-![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=fontawesome&logoColor=white)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/My-Portfolio)
+<br>
+
+Built with the tools and technologies:
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![LottieFiles](https://img.shields.io/badge/LottieFiles-%2300C4CC.svg?style=for-the-badge&logo=lottiefiles&logoColor=white)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-%23339AF0.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 <br>
 
@@ -31,19 +36,6 @@ To serve as a central hub where potential collaborators, recruiters, and peers c
 - Technical expertise
 - Featured AI projects and web applications
 - Contact and social links
-
----
-
-## ⚙️ Built With
-
-| Technology | Purpose |
-|-------------|----------|
-| **HTML5** | Semantic structure and page layout |
-| **Tailwind CSS** | Responsive design and quick styling |
-| **CSS3** | Custom animations and effects |
-| **JavaScript (ES6)** | Interactive elements and DOM control |
-| **Font Awesome** | Iconography for UI and contact section |
-| **LottieFiles** | Animated illustrations using lightweight JSON animations |
 
 ---
 
