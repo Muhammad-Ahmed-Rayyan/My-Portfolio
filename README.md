@@ -117,15 +117,15 @@ cd My-Portfolio
 ## 🖥️ Interactive Highlights
 
 - 🧠 Neural Network Animation
--- An HTML5 `<canvas>` visualization simulating a neural network with moving nodes and soft connections.
+    - An HTML5 `<canvas>` visualization simulating a neural network with moving nodes and soft connections.
 - 💡 Typing Effect  
--- The hero section dynamically types the name “Muhammad Ahmed Rayyan” using a JavaScript animation.
-- 🪄 Scroll Animations  
--- Smooth transitions and section fades using `IntersectionObserver` for an engaging flow.
+    - The hero section dynamically types the name “Muhammad Ahmed Rayyan” using a JavaScript animation.
+- ⬆️ Scroll Animations  
+    - Smooth transitions and section fades using `IntersectionObserver` for an engaging flow.
 
 ---
 
 
 <div align="center">
-    ⭐ Star this project and make the dev’s day!
+⭐ Star this project and make the dev’s day!
 </div>
