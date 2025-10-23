@@ -5,8 +5,8 @@
 
 ![last commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/My-Portfolio)
 ![HTML](https://img.shields.io/badge/HTML5-69.2%25-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-11%25-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-19.8%25-F7DF1E?logo=javascript)
+![CSS](https://img.shields.io/badge/CSS3-11%25-1572B6?logo=css3)
 ![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/My-Portfolio)
 <br>
 
